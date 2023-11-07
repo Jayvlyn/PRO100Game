@@ -2,7 +2,4 @@
 
 [node name="Node2D" type="Node2D"]
 
-[node name="Test" type="Node2D" parent="."]
-position = Vector2(103.686, 86.2867)
-
 [node name="Test2" type="Node2D" parent="."]
